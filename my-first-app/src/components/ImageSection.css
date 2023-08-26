@@ -1,0 +1,8 @@
+/* .image-section {
+
+   */
+   .imageBoxes{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+   }

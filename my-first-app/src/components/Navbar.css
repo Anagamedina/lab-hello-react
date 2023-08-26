@@ -1,0 +1,40 @@
+/* Estilos de la barra de navegación */
+.navbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  /* Estilos de la lista de navegación */
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Estilos de los elementos de la lista */
+  .nav-list li {
+    margin: 0 15px;
+  }
+  
+  .nav-list li a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+  }
+  
+  .nav-list li a:hover {
+    text-decoration: underline;
+  }
+  
+  /* ... otros estilos ... */
+
+.logo {
+    margin-right: 20px;
+    flex-direction: row-reverse;
+  }
+  
+  .logo img {
+    height: 40px; /* Ajusta el tamaño del logotipo según tus necesidades */
+
+  }
+  
